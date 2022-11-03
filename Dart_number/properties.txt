@@ -1,0 +1,10 @@
+Properties: 
+
+    hashcode: This property is used to get the hash code of the given number.
+    isFinite: If the given number is finite, then this property will return true.
+    isInfinite: If the number is infinite, then this property will return true.
+    isNan: If the number is non-negative then this property will return true.
+    isNegative: If the number is negative then this property will return true.
+    sign: This property is used to get -1, 0, or 1 depending upon the sign of the given number.
+    isEven: If the given number is an even then this property will return true.
+    isOdd: If the given number is odd then this property will return true.
